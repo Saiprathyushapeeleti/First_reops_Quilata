@@ -2,6 +2,5 @@ Line 1 of the code
 Line 2 of the code
 Line 3 of the code
 Line 4 of the code
-Line 5 of the code
-Rebase conflict branch
+
 
